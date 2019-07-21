@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\Debug\Atividade11.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Atividade11.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Atividade11.map</FILE>
+  <FILE>Atividade11.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>77</LINE></init>
+  <Interruption><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>147</LINE></Interruption>
+  <TriangleInterruption><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>158</LINE></TriangleInterruption>
+  <outInit><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>9</LINE></outInit>
+  <adcInitA0><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>22</LINE></adcInitA0>
+  <adcInitA1><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>29</LINE></adcInitA1>
+  <adcRead><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>36</LINE></adcRead>
+  <adcWait><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>42</LINE></adcWait>
+  <waitSquare><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>53</LINE></waitSquare>
+  <waitSaw><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>58</LINE></waitSaw>
+  <waitTriangle><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>68</LINE></waitTriangle>
+  <main><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>79</LINE></main>
+  <Triangle><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>132</LINE></Triangle>
+  <Saw><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>122</LINE></Saw>
+  <Square><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>94</LINE></Square>
+  <IntSaw><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>153</LINE></IntSaw>
+  <IntSquare><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade11\Atividade11\WithInterruption.asm</FILE><LINE>150</LINE></IntSquare>
+ </LABELS>
+</ASSEMBLER_INFO>

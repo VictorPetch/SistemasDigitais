@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade07\Atividade07\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade07\Atividade07\FunctionGenerator.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade07\Atividade07\Debug\Atividade07.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Atividade07.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Atividade07.map</FILE>
+  <FILE>Atividade07.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade07\Atividade07\FunctionGenerator.asm</FILE><LINE>6</LINE></SETUP>
+  <FUNC><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade07\Atividade07\FunctionGenerator.asm</FILE><LINE>12</LINE></FUNC>
+  <RETAN><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade07\Atividade07\FunctionGenerator.asm</FILE><LINE>24</LINE></RETAN>
+  <SERRA><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade07\Atividade07\FunctionGenerator.asm</FILE><LINE>33</LINE></SERRA>
+  <TRIAN><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade07\Atividade07\FunctionGenerator.asm</FILE><LINE>50</LINE></TRIAN>
+  <delay><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade07\Atividade07\FunctionGenerator.asm</FILE><LINE>77</LINE></delay>
+  <loop><FILE>C:\Users\Victor\Documents\Atmel Studio\7.0\dffgsfg\Atividade07\Atividade07\FunctionGenerator.asm</FILE><LINE>83</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>
